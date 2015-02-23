@@ -1,0 +1,28 @@
+body {
+    background: lightcyan;
+    width: 800px;
+    margin: auto;
+}
+
+h1 {
+    color: maroon;
+    text-align: center;
+}
+
+h2 {
+	text-decoration: underline;
+	text-align: center;
+	border: 2px;
+	background: #CCFFCC;
+	padding: 7px;
+}
+span {
+	font-style: italic;
+	color: #0033FF;
+}
+p {
+    color: black;
+	background: #CCFFCC;
+    border: 1px solid #888888 ;
+    padding: 7px;
+}
